@@ -5,7 +5,7 @@ A machine learning model to predict house prices based on various features. This
 ---
 
 ## About The Project
-This project is an machine learning task. The goal was to pratice data cleaning, model building and find out best model. The final model is Random Forest Regressor that predicts house sale prices.
+This project is a machine learning task. The goal was to practice data cleaning, model building, and find the best model. The final model is a Random Forest Regressor that predicts house sale prices.
 
 ---
 
@@ -21,3 +21,7 @@ There are two ways to run this project:
 **1. Open in Google Colab (Recommended)**
 
 **2. Run Locally**
+    1. Clone the repository
+    2. Navigate to the project directory: cd house-price-prediction
+    3. Install the required libraries: pip install -r requirements.txt
+    4. Open the notebook: jupyter notebook notebooks/house_price_prediction.ipynb
