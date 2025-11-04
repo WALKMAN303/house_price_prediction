@@ -21,7 +21,12 @@ There are two ways to run this project:
 **1. Open in Google Colab (Recommended)**
 
 **2. Run Locally**
+
     1. Clone the repository
+    
     2. Navigate to the project directory: cd house-price-prediction
+    
     3. Install the required libraries: pip install -r requirements.txt
+    
     4. Open the notebook: jupyter notebook notebooks/house_price_prediction.ipynb
+    
