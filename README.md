@@ -338,4 +338,3 @@ NUMBER_OF_FOLDS = 3  # Reduce from 5
 - **Model Type:** XGBoost Regressor
 - **Validation:** K-Fold Cross-Validation
 - **Status:** ✅ Production Ready
----
