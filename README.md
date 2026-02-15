@@ -54,7 +54,7 @@ house-price-prediction/
 
 ## 📦 Dataset
 
-**Source:** ([Kaggle - House Data][https://www.kaggle.com/datasets/camnugent/california-housing-prices])
+**Source:** [Kaggle - House Data][https://www.kaggle.com/datasets/camnugent/california-housing-prices]
 
 **Features:**
 - `longitude`, `latitude` - Geographic coordinates
